@@ -63,8 +63,8 @@ public class BoardTest {
 
         /*
          * 1 X 1 0 0
-         * X M 1 1 0
-         * 1 1 M 1 0
+         * X M 2 1 0
+         * 1 2 M 1 0
          * 0 1 1 1 0
          * 0 0 0 0 0
          */
